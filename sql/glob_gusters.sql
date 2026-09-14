@@ -1,0 +1,2 @@
+-- Bases de datos relacional glob gusters
+-- Autor: Brian Blanco Chamorro
